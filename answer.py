@@ -1,9 +1,7 @@
-from re import findall,sub
 from lxml import html
 from time import sleep
 from selenium import webdriver
-from pprint import pprint
-from xvfbwrapper import Xvfb
+
 
 def parse(url):
     response = webdriver.Chrome()
@@ -52,7 +50,7 @@ def parse(url):
 
     sleep(3)
 
-    
+
 
 if __name__ == '__main__':
 
