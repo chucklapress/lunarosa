@@ -6,6 +6,7 @@ from selenium import webdriver
 def parse(url):
     response = webdriver.Chrome()
     response.get(url)
+    sleep(3)
 
     ge1keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div[1]/div[2]/div[1]/div[1]')
     print(ge1keyElement.text)
@@ -48,8 +49,7 @@ def parse(url):
     ge20keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div[1]/div[2]/div[20]/div[1]')
     print(ge20keyElement.text)
 
-    sleep(3)
-
+    sleep(4)
 
 
 if __name__ == '__main__':
