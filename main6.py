@@ -1,10 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from pprint import pprint
-
-
-
-
 
 
 def communitytapview():
@@ -15,10 +10,10 @@ def communitytapview():
 
     looker = souper.find_all(class_='beer')
     for look in looker:
-        pprint(look.text)
+        print(look.text)
     seeker = souper.find_all(class_='wine')
     for seek in seeker:
-        pprint(seek.text)
+        print(seek.text)
 
 
 
