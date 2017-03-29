@@ -15,10 +15,10 @@ def communitytapview():
 
     looker = souper.find_all(class_='beer')
     for look in looker:
-        pprint(look)
+        pprint(look.text)
     seeker = souper.find_all(class_='wine')
     for seek in seeker:
-        pprint(seek)
+        pprint(seek.text)
 
 
 
