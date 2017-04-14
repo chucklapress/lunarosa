@@ -6,8 +6,9 @@ from selenium import webdriver
 def parse(url):
     response = webdriver.Chrome()
     response.get(url)
-    sleep(10)
-
+    sleep(3)
+    grabmenu = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/ul/li[2]').click();
+    sleep(2)
     ge1keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div[2]/div[2]/div[1]/div[1]')
     print(ge1keyElement.text)
     ge2keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div[2]/div[2]/div[2]/div[1]')
