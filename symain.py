@@ -3,7 +3,7 @@ from lxml import html
 from time import sleep
 from selenium import webdriver
 from pprint import pprint
-from xvfbwrapper import Xvfb
+#from xvfbwrapper import Xvfb
 
 def parse(url):
     response = webdriver.Chrome()
