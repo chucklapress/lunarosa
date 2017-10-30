@@ -55,4 +55,4 @@ def parse(url):
 
 if __name__ == '__main__':
 
-    parse('http://mailchi.mp/gvltoday/hello-greenville-iu724xltq8?e=91100e3012')
+    parse('http://mailchi.mp/gvltoday/hello-greenville-5hwd5cf3t2?e=91100e3012')
