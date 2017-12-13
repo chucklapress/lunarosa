@@ -7,7 +7,6 @@ def parse(url):
     response = webdriver.Chrome()
     response.get(url)
     sleep(3)
-
     ge1keyElement = response.find_element_by_xpath('//*[@id="archivebody"]/table/tbody/tr/td/table/tbody/tr/td/table[3]/tbody/tr/td/div[2]/table/tbody/tr/td[2]/div[1]/div')
     print(ge1keyElement.text)
     ge2keyElement = response.find_element_by_xpath('//*[@id="archivebody"]/table/tbody/tr/td/table/tbody/tr/td/table[3]/tbody/tr/td/div[6]')
