@@ -267,8 +267,8 @@ def parse(url):
     print(ge43akeyElement.text)
     ge44akeyElement = response.find_element_by_xpath('//*[@id="ng-app"]/div[5]/div/div/div/div/div[2]/div[128]/article/header')
     print(ge44akeyElement.text)
-    ge45akeyElement = response.find_element_by_xpath('//*[@id="ng-app"]/div[5]/div/div/div/div/div[2]/div[129]/article/header')
-    print(ge45akeyElement.text)
+    #ge45akeyElement = response.find_element_by_xpath('//*[@id="ng-app"]/div[5]/div/div/div/div/div[2]/div[129]/article/header')
+    #print(ge45akeyElement.text)
 
     sleep(4)
 
