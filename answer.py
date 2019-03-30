@@ -55,6 +55,8 @@ def parse(url):
     print(ge21keyElement.text)
     ge22keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[5]/div[22]/div[1]/div[1]')
     print(ge22keyElement.text)
+    ge23keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[5]/div[23]/div[1]/div[1]')
+    print(ge23keyElement.text)
 
     sleep(2)
 
