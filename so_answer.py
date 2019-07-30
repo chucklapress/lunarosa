@@ -16,8 +16,6 @@ def parse(url):
     print(price.text)
     print(details.text)
 
-
-
     sleep(1)
 
 
