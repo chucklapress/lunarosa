@@ -3,10 +3,10 @@
  Lemon Sorbetto
  Lime Sorbetto
  Mango Sorbetto
- Strawberry Sorbetto
- Caramel Latte Crunch
- Coconut Cream
- Ferrero Rocher
+ Limonchello
+ Biscotti cookie crunch
+ Strawberry shortcake
+ Cherry vanilla bon
  Unicorn
  Chocolate Velvet
  Stracciatella
@@ -19,6 +19,8 @@
  Caramel By The Sea
  French Vanilla
  Birthday Cake
- Lemon Cookie Crunch
+ Grapefruit
  Carmel candy apple
- Black chocolate
+ Snickers
+ Pistachio
+ Triple fudge brownie
