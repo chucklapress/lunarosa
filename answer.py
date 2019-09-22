@@ -32,7 +32,9 @@ def parse(url):
     ge21keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[21]/div[1]/div[1]')
     ge22keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[22]/div[1]/div[1]')
     ge23keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[23]/div[1]/div[1]')
-    ge24keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[24]/div[1]/div[1]')
+    #ge24keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[24]/div[1]/div[1]')
+    #Goofy fix for rouge flavor
+    ge24keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[4]/div/div[1]/div[1]')
 
     flavors = open("flavors.txt", "w")
 
