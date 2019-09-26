@@ -1,12 +1,13 @@
- FLAVORS OF THE DAY
+ FLAVORS OF THE DAY 
+ 
  Passionfruit
  Lemon Sorbetto
  Limoncello
  Pink Grapefruit
  Lime Sorbetto
  Mango Sorbetto
- Sugar Free Raspberry Sorbetto
- Cherry vanilla bon
+ Blueberry Lemonade Sorbetto
+ Watermelon Sorbetto
  Chocolate Velvet
  Stracciatella
  Caramela
@@ -15,11 +16,12 @@
  Caramel By The Sea
  French Vanilla
  Birthday Cake
- Black chocolate
- Mint chocolate chip
- Cafe costa de oro
- Peanut pumpkin
- S’more please
- Triple fudge brownie
- Biscotti cookie crunch
- Cherry vanilla bon
+ Black Chocolate
+ White Chocolate
+ Cafe Costa Di Oro
+ Caramel Latte Crunch
+ S’more Please
+ Toasted Almond
+ Chocolate Birthday Cake
+ Cherry Vanilla Bon
+ Bacio
