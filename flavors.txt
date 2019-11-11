@@ -1,18 +1,18 @@
  FLAVORS OF THE DAY 
  
- Lemon Sorbetto
+ Lemoncello Sorbetto
  Sugar Free Raspberry Sorbetto
  Strawberry Lemonade Sorbetto
  Lime Sorbetto
  Mango Sorbetto
  Strawberry sorbetto
- Snickers
+ Butter Pecan
  Bacio
  Triple Fudge Brownie
- White Chocolate
- Elvis
+ Amaretto
+ Bananas Foster Sorbetto
  Chocolate Velvet
- Caramel Latte Crunch
+ Cherry Vanilla Bon
  Stracciatella
  Cookies N Cream
  Peanut Royale
@@ -21,4 +21,4 @@
  Birthday Cake
  Toasted Almond
  Strawberry Shortcake
- Fruitii De Basco
+ Carmella
