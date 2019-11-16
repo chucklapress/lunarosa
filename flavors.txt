@@ -2,15 +2,15 @@
  
  Lemoncello Sorbetto
  Sugar Free Raspberry Sorbetto
- Strawberry Lemonade Sorbetto
+ Strawberry sorbetto
  Lime Sorbetto
  Mango Sorbetto
- Strawberry sorbetto
  Butter Pecan
- Bacio
+ Hazelnut
  Triple Fudge Brownie
- Amaretto
- Bananas Foster Sorbetto
+ Caramel Latte Crunch
+ Black Chocolate
+ Baileys Irish Coffee
  Chocolate Velvet
  Cherry Vanilla Bon
  Stracciatella
@@ -20,5 +20,5 @@
  French Vanilla
  Birthday Cake
  Toasted Almond
- Strawberry Shortcake
+ Chocolate Birthday Cake
  Carmella
