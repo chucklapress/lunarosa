@@ -31,8 +31,8 @@ def parse(url):
     ge20keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[20]/div[1]/div[1]')
     ge21keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[21]/div[1]/div[1]')
     ge22keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[22]/div[1]/div[1]')
-    #ge23keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[23]/div[1]/div[1]')
-    #ge24keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[24]/div[1]/div[1]')
+    ge23keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[23]/div[1]/div[1]')
+    ge24keyElement = response.find_element_by_xpath('//*[@id="locu-medium-container"]/div[1]/div/div/div[10]/div[24]/div[1]/div[1]')
 
     flavors = open("flavors.txt", "w")
 
@@ -60,8 +60,8 @@ def parse(url):
     print(' '+ge20keyElement.text, file=flavors)
     print(' '+ge21keyElement.text, file=flavors)
     print(' '+ge22keyElement.text, file=flavors)
-    #print(' '+ge23keyElement.text, file=flavors)
-    #print(' '+ge24keyElement.text, file=flavors)
+    print(' '+ge23keyElement.text, file=flavors)
+    print(' '+ge24keyElement.text, file=flavors)
 
     flavors.close()
     print("It's all good")

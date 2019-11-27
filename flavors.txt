@@ -1,16 +1,16 @@
  FLAVORS OF THE DAY 
  
- Lemoncello Sorbetto
- Sugar Free Raspberry Sorbetto
- Strawberry sorbetto
- Lime Sorbetto
+ Lemon Sorbetto
+ Jamaican Lime
+ Black Chocolate
  Mango Sorbetto
- Butter Pecan
+ S’more Please
  Hazelnut
  Triple Fudge Brownie
- Caramel Latte Crunch
- Black Chocolate
- Baileys Irish Coffee
+ Rum Raisin
+ Chocolate Birthdaycake
+ Nutella
+ Cafe Costa Di Oro
  Chocolate Velvet
  Cherry Vanilla Bon
  Stracciatella
@@ -18,7 +18,9 @@
  Peanut Royale
  Caramel By The Sea
  French Vanilla
- Birthday Cake
  Toasted Almond
- Chocolate Birthday Cake
+ Birthday Cake
+ Caramel Coconut
  Carmella
+ Unicorn
+ Raspberry Truffle
