@@ -7,14 +7,14 @@ def parse(url):
     response = webdriver.Chrome()
     response.get(url)
     sleep(3)
-    name = response.find_element_by_xpath(' //*[@id="grpDescrip_75-606-157"]')
+    name = response.find_element_by_xpath('//*[@id="grpDescrip_75-606-157"]')
     price = response.find_element_by_xpath(' //*[@id="landingpage-price"]/div/div/ul/li[3]')
-    details = response.find_element_by_xpath(' //*[@id="synopsis"]/div[4]/div/div[9]/ul')
+    details = response.find_element_by_xpath('//*[@id="synopsis"]/div[4]/div/div[10]/ul')
 
 
-    print(name.text)
-    print(price.text)
-    print(details.text)
+    print("Phone name: " + name.text)
+    print("Phone price: " + price.text)
+    print("Phone details: " + details.text)
 
     sleep(1)
 
