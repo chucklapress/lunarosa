@@ -17,9 +17,9 @@ def parse(url):
     ge6keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[6]/div/div/div[2]')
     ge7keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[7]/div/div/div[2]')
     ge8keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[8]/div/div/div[2]')
-    ge9keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[9]/div/div/div[2]')
-    ge10keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[10]/div/div/div[2]')
-    ge11keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[11]/div/div/div[2]')
+    #ge9keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[9]/div/div/div[2]')
+    #ge10keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[10]/div/div/div[2]')
+    #ge11keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div/div[11]/div/div/div[2]')
 
     flavors = open("flavors.txt", "w")
 
@@ -33,9 +33,9 @@ def parse(url):
     print(' '+ge6keyElement.text, file=flavors)
     print(' '+ge7keyElement.text, file=flavors)
     print(' '+ge8keyElement.text, file=flavors)
-    print(' '+ge9keyElement.text, file=flavors)
-    print(' '+ge10keyElement.text, file=flavors)
-    print(' '+ge11keyElement.text, file=flavors)
+    #print(' '+ge9keyElement.text, file=flavors)
+    #print(' '+ge10keyElement.text, file=flavors)
+    #print(' '+ge11keyElement.text, file=flavors)
 
     flavors.close()
     print("It's all good")
