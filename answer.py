@@ -1,4 +1,3 @@
-#!/usr/local/bin/python3
 from lxml import html
 from time import sleep
 from selenium import webdriver
