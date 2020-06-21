@@ -26,6 +26,13 @@ def parse(url):
     ge15keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[15]/div')
     ge16keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[16]/div')
     ge17keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[17]/div')
+    ge18keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[18]/div')
+    ge19keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[19]/div')
+    ge20keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[20]/div')
+    ge21keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[21]/div')
+    ge22keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[22]/div')
+    ge23keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[23]/div')
+    ge24keyElement = response.find_element_by_xpath('//*[@id="4c18f44a-0386-442e-9774-f3d64afe7b13"]/div/div/section/div/div[1]/div/div/div/div/div/div[2]/div[24]/div')
 
     flavors = open("flavors.txt", "w")
 
@@ -48,6 +55,13 @@ def parse(url):
     print(' '+ge15keyElement.text, file=flavors)
     print(' '+ge16keyElement.text, file=flavors)
     print(' '+ge17keyElement.text, file=flavors)
+    print(' '+ge18keyElement.text, file=flavors)
+    print(' '+ge19keyElement.text, file=flavors)
+    print(' '+ge20keyElement.text, file=flavors)
+    print(' '+ge21keyElement.text, file=flavors)
+    print(' '+ge22keyElement.text, file=flavors)
+    print(' '+ge23keyElement.text, file=flavors)
+    print(' '+ge24keyElement.text, file=flavors)
 
 
     flavors.close()
