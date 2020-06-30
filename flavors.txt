@@ -3,7 +3,7 @@
  Chocolate Velvet
 our signature tripple dark but semi-sweet best chocolate
  Caramel Latte Crunch
- Caramel By The Sea
+ Caramella
  Bailey's Irish coffee
  Sicilian Pistachio
  Toasted Almond
@@ -13,8 +13,8 @@ Italian version of chocolate chip ice cream
  Cookies N Cream
 A smooth Italian creme flavor with rich dark chocolate wafer cookies
  Birthday Cake
- Yoo Hoo Milk
- Zabajone Custard
+ Strawberry Pineapple Sorbetto
+ Raspberry White Chocolate Truffle
  Cherry Vanilla Bon
  Triple Fudge Brownie
  Cafe Costa Di Oro
@@ -23,6 +23,6 @@ A smooth Italian creme flavor with rich dark chocolate wafer cookies
  Black Chocolate
  Mango Sorbetto
  Jamaican Lime Frost Sorbetto
- Blueberry Lemonade Sorbetto
+ Fruits of the Forrest Sorbetto
  Coconut Sorbetto
- Blood Orange Sorbetto
+ Banana's Foster Sorbetto
