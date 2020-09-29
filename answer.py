@@ -37,8 +37,6 @@ def parse(url):
 
     flavors = open("flavors.txt", "w")
 
-    print(" FLAVORS OF THE DAY ", file=flavors)
-    print(" ", file=flavors)
     print(' '+ge1keyElement.text, file=flavors)
     print(' '+ge2keyElement.text, file=flavors)
     print(' '+ge3keyElement.text, file=flavors)
