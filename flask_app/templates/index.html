@@ -22,8 +22,10 @@ body {
     <body>
         <div>
             <br>
-            <h4><pre>Updated on {{date}}</pre></h4>
-          <h3><pre>{{n}}</pre></h3>
+            <h4>Updated on {{date}}</h4>
+            {% for flavor in converted_list %}
+          <h3>{{flavor}}</h3>
+            {% endfor %}
           <br>
         </div>
     </body>
