@@ -1,7 +1,7 @@
  Chocolate Velvet
- Pistachio
- Tiramisu
- Jameson Irish Whiskey
+ Caramel Latte Crunch
+ Zabaione
+ Chocolate Coffee Mint
  Cherry Vanilla Bon
  S’more Please
  Stracciatella
@@ -9,12 +9,12 @@
  Cookies N Cream
  Birthday Cake
  Caramella
+ Biscotti Cookie Crunch
+ Vanilla Coconut
+ Chocolate Birthday Cake
  Spice Cake
- Pumpkin Pie
- Kahlua
- French Vanilla
- Triple Fudge Brownie
+ Unicorn
  Lemon Sorbetto
  Mango Sorbetto
  Jamaican Lime Frost Sorbetto
- Sugar Free Raspberry
+ Strawberry Sorbetto
