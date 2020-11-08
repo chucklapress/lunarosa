@@ -1,8 +1,7 @@
  Chocolate Velvet
- Caramel Latte Crunch
- Zabaione
- Chocolate Coffee Mint
- Cherry Vanilla Bon
+ Strawberry Shortcake
+ Vanilla Coconut
+ Ferrero Rocher
  S’more Please
  Stracciatella
  Peanut Royale
@@ -10,11 +9,12 @@
  Birthday Cake
  Caramella
  Biscotti Cookie Crunch
- Vanilla Coconut
- Chocolate Birthday Cake
- Spice Cake
- Unicorn
+ Toasted Almond
+ Triple Fudge Brownie
+ Lemon Cookie Crunch
+ White Chocolate Raspberry
+ Peanut Butter Coffee
+ Pineapple Basil Sorbetto
  Lemon Sorbetto
  Mango Sorbetto
  Jamaican Lime Frost Sorbetto
- Strawberry Sorbetto
