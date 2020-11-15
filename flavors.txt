@@ -1,7 +1,7 @@
  Chocolate Velvet
- Strawberry Shortcake
- Vanilla Coconut
- Ferrero Rocher
+ Pistachio
+ Tiramasu
+ White chocolate raspberry
  S’more Please
  Stracciatella
  Peanut Royale
@@ -11,10 +11,10 @@
  Biscotti Cookie Crunch
  Toasted Almond
  Triple Fudge Brownie
- Lemon Cookie Crunch
- White Chocolate Raspberry
+ Baileys Irish Cream
+ Cherry Vanilla Bon
  Peanut Butter Coffee
- Pineapple Basil Sorbetto
+ Sugar Free Raspberry
  Lemon Sorbetto
  Mango Sorbetto
  Jamaican Lime Frost Sorbetto
