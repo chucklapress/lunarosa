@@ -1,6 +1,6 @@
  Chocolate Velvet
- Pistachio
- Tiramasu
+ French Vanilla
+ Ferrero Rocher
  White chocolate raspberry
  S’more Please
  Stracciatella
@@ -11,8 +11,8 @@
  Biscotti Cookie Crunch
  Toasted Almond
  Triple Fudge Brownie
- Baileys Irish Cream
  Cherry Vanilla Bon
+ Baileys Irish Cream
  Peanut Butter Coffee
  Sugar Free Raspberry
  Lemon Sorbetto
