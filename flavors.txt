@@ -1,6 +1,4 @@
  Chocolate Velvet
- French Vanilla
- Ferrero Rocher
  Biscotti Cookie Crunch
  S’more Please
  Stracciatella
@@ -12,8 +10,10 @@
  Toasted Almond
  Caramel by the Sea
  Cherry Vanilla Bon
- Bailey’s Irish Coffee
- Elvis
+ Triple Fudge Brownie
+ Blueberry Coconut
+ Hot Chocolate with Marshmallows
+ Peppermint
  Sugar Free Raspberry
  Lemon Sorbetto
  Mango Sorbetto
